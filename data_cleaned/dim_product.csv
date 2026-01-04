@@ -1,0 +1,347 @@
+﻿product_card_id,product_category_id,product_name,product_price (bins),product_price,category_name
+19,2.0002038,Nike Men's Fingertrap Max Training Shoe,0,99.99,Basketball
+23,2,Elevation Training Mask 2.0,0,99.99,Soccer
+24,2.0001333,Elevation Training Mask 2.0,0,99.99,Basketball
+25,2.000635,Elevation Training Mask 2.0,0,99.99,Baseball & Softball
+28,2.0008378,Elevation Training Mask 2.0,0,59.99,Golf Apparel
+35,2.8782363,adidas Brazuca 2014 Official Match Ball,107.50992666666666,199.99,Baseball & Softball
+36,3,adidas Kids' F5 Messi FG Soccer Cleat,0,34.99,Baseball & Softball
+37,3,Summer dresses,0,31.08,Baseball & Softball
+38,3,adidas Kids' F5 Messi FG Soccer Cleat,0,31.99,Baseball & Softball
+39,3,adidas Kids' F5 Messi FG Soccer Cleat,0,39.99,Baseball & Softball
+40,3,adidas Kids' F5 Messi FG Soccer Cleat,0,34.99,Baseball & Softball
+41,3,Summer dresses,0,34.99,Baseball & Softball
+42,3,Titleist Pro V1 High Numbers Personalized Gol,0,50,Baseball & Softball
+43,3,adidas Men's F10 Messi TRX FG Soccer Cleat,0,59.99,Baseball & Softball
+44,6,Toys,0,59.99,Lacrosse
+47,3,SOLE E25 Elliptical,1612.6489,1622.6389,Basketball
+66,5.914845,Nike Women's Legend V-Neck T-Shirt,322.52977999999996,399.98,Basketball
+67,5,Nike Kids' Grade School KD VI Basketball Shoe,0,99.99,Lacrosse
+69,6.3255577,Toys,107.50992666666666,129.99,Lacrosse
+80,5,adidas Men's F10 Messi TRX FG Soccer Cleat,0,50,Basketball
+81,5.140648,Nike Kids' Grade School KD VI Basketball Shoe,0,99.99,Lacrosse
+83,7,Toys,0,59.99,Lacrosse
+86,6,Glove It Women's Mod Oval Golf Glove,0,50,Lacrosse
+88,5,Under Armour Men's Tech II T-Shirt,0,25,Lacrosse
+89,5,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+91,3,adidas Kids' F5 Messi FG Soccer Cleat,0,49.98,Lacrosse
+95,4.166455,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+97,4.6466403,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+98,3,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+99,5,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+101,3,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+102,5,Team Golf New England Patriots Putter Grip,0,31.99,Lacrosse
+103,6,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+104,5,Glove It Women's Mod Oval 3-Zip Carry All Gol,0,49.98,Tennis & Racquet
+109,5.8156266,Under Armour Men's Tech II T-Shirt,0,24.99,Lacrosse
+114,5.6375318,Nike Men's Comfort 2 Slide,0,49.98,Tennis & Racquet
+116,5.626689,Nike Men's Comfort 2 Slide,0,47.939728,Tennis & Racquet
+118,6,Nike Men's Comfort 2 Slide,0,47.99,Tennis & Racquet
+120,7,Nike Women's Legend V-Neck T-Shirt,0,24.99,Hockey
+123,6,Perfect Fitness Perfect Rip Deck,0,24.99,Hockey
+126,6.48376,Nike Men's Comfort 2 Slide,0,49.98,Tennis & Racquet
+130,7,Nike Women's Legend V-Neck T-Shirt,0,29.99,Hockey
+131,6,Nike Women's Legend V-Neck T-Shirt,0,24.990248,Hockey
+133,5.92614,Nike Women's Legend V-Neck T-Shirt,0,24.99,Hockey
+134,8.529809,Polar FT4 Heart Rate Monitor,0,29.991,Hockey
+135,7,Nike Dri-FIT Crew Sock 6 Pack,0,24.99,Hockey
+136,6.216654,Nike Dri-FIT Crew Sock 6 Pack,0,22,Hockey
+138,9,Nike Dri-FIT Crew Sock 6 Pack,0,24.99,Hockey
+140,9,Nike Dri-FIT Crew Sock 6 Pack,0,24.99,Hockey
+142,9,Pelican Maverick 100X Kayak,0,25,Cardio Equipment
+146,9,Nike Women's Tempo Shorts,0,25,Cardio Equipment
+148,7,Bridgestone e6 Straight Distance NFL San Dieg,0,24.99,Hockey
+149,8.232717,Nike Dri-FIT Crew Sock 6 Pack,0,22,Hockey
+152,9,Nike Women's Tempo Shorts,0,24.99,Cardio Equipment
+153,9,Nike Dri-FIT Crew Sock 6 Pack,0,31.64359,Cardio Equipment
+157,7,Nike Dri-FIT Crew Sock 6 Pack,0,24.99,Hockey
+159,9,Nike Women's Tempo Shorts,0,25,Cardio Equipment
+172,9,GolfBuddy VT3 GPS Watch,0,30,Cardio Equipment
+175,9,Nike Women's Tempo Shorts,0,31.99,Cardio Equipment
+176,9,Nike Women's Tempo Shorts,0,31.578587,Cardio Equipment
+179,9,Nike Dri-FIT Crew Sock 6 Pack,0,31.99,Cardio Equipment
+189,9,Nike Women's Tempo Shorts,0,31.08,Cardio Equipment
+191,9,Nike Men's Free 5.0+ Running Shoe,0,99.99,Cardio Equipment
+197,13,DVDs,0,39.99,Fitness Accessories
+202,9,Under Armour Women's Micro G Skulpt Running S,0,50,Boxing & MMA
+204,14.016179,Under Armour Hustle Storm Medium Duffle Bag,0,31.99,Fitness Accessories
+205,13,Under Armour Women's Micro G Skulpt Running S,0,50,Boxing & MMA
+208,17,Pelican Sunstream 100 Kayak,1397.6290466666665,1500,As Seen on  TV!
+210,9,Under Armour Women's Ignite PIP VI Slide,0,39.99,Electronics
+211,13,Under Armour Women's Ignite Slide,0,31.99,Electronics
+219,9,Under Armour Women's Micro G Skulpt Running S,0,59.99,Boxing & MMA
+223,9.936181,adidas Men's Germany Black Crest Away Tee,0,59.99,Men's Footwear
+226,9,Under Armour Men's Compression EV SL Slide,0,49.98,Electronics
+227,13,Under Armour Hustle Storm Medium Duffle Bag,0,32.026424,CDs
+238,9,Under Armour Women's Ignite Slide,0,39.99,Electronics
+239,9,Under Armour Women's Micro G Skulpt Running S,0,59.99,Boxing & MMA
+240,18,Perfect Fitness Perfect Rip Deck,0,99.99,Cardio Equipment
+241,9,Under Armour Women's Ignite Slide,0,34.99,Electronics
+242,13,Elevation Training Mask 2.0,0,59.99,Boxing & MMA
+249,9,Under Armour Women's Micro G Skulpt Running S,0,50,Boxing & MMA
+251,12,Under Armour Men's Compression EV SL Slide,0,49.98,Electronics
+252,9,Fighting video games,0,59.99,Boxing & MMA
+254,13,TaylorMade Women's RBZ SL Rescue,0,44.99,Electronics
+255,14.484429,Under Armour Kids' Mercenary Slide,0,24.9926,Electronics
+256,13,Under Armour Women's Micro G Skulpt Running S,0,59.99,Boxing & MMA
+258,13,Under Armour Hustle Storm Medium Duffle Bag,0,31.99,Fitness Accessories
+259,9,Under Armour Men's Compression EV SL Slide,0,39.99,Electronics
+262,13,Glove It Urban Brick Golf Towel,0,39.99,Men's Footwear
+263,9,Under Armour Women's Ignite PIP VI Slide,0,34.99,Electronics
+264,17,Under Armour Women's Ignite Slide,0,30,Electronics
+266,12.97278,Under Armour Women's Ignite PIP VI Slide,0,31.278923,Electronics
+267,17,Under Armour Women's Ignite Slide,0,31.99,Electronics
+271,13,adidas Brazuca 2014 Official Match Ball,0,99.99,As Seen on  TV!
+272,9,adidas Brazuca 2014 Official Match Ball,0,99.99,As Seen on  TV!
+273,13,Nike Men's Free 5.0+ Running Shoe,0,59.99,Men's Footwear
+274,17,Under Armour Women's Ignite PIP VI Slide,0,34.99,Electronics
+275,13,Under Armour Women's Ignite Slide,0,39.541,Electronics
+276,13,Men's gala suit,0,99.99,Boxing & MMA
+277,9,Hirzl Women's Soffft Flex Golf Glove,0,31.028385,Electronics
+278,12,Hirzl Women's Soffft Flex Golf Glove,0,27.619709,Electronics
+279,17,Under Armour Men's Compression EV SL Slide,0,39.99,Electronics
+280,17,Under Armour Men's Compression EV SL Slide,0,39.99,Electronics
+282,17,Nike Men's Free TR 5.0 TB Training Shoe,0,99.99,As Seen on  TV!
+283,16.070257,Under Armour Men's Compression EV SL Slide,0,39.99,Electronics
+286,17,Under Armour Women's Ignite PIP VI Slide,0,37.082066,Electronics
+287,9,Under Armour Men's Compression EV SL Slide,0,47.586746,Electronics
+288,29,Nike Women's Free 5.0 TR FIT PRT 4 Training S,107.50992666666666,129.99,Kids' Golf Clubs
+289,17,Under Armour Women's Ignite PIP VI Slide,0,39.99,Electronics
+290,9,Under Armour Women's Ignite PIP VI Slide,0,28.987926,Electronics
+292,13,Under Armour Women's Ignite Slide,0,30,Electronics
+294,12,Under Armour Men's Compression EV SL Slide,0,49.98,Electronics
+303,17,Under Armour Men's Compression EV SL Slide,0,44.99,Electronics
+304,17,Under Armour Women's Ignite Slide,0,31.99,Electronics
+345,37,Stiga Master Series ST3100 Competition Indoor,0,99.99,Kids' Golf Clubs
+350,13,Under Armour Women's Ignite Slide,0,39.83872,Electronics
+351,17,Under Armour Men's Compression EV SL Slide,0,49.98,Electronics
+353,13,Under Armour Men's Compression EV SL Slide,0,47.99,Electronics
+354,17,Hirzl Women's Soffft Flex Golf Glove,0,31.99,Electronics
+359,12.505087,Nike Women's Legend V-Neck T-Shirt,107.50992666666666,129.99,Toys
+360,18,Glove It Women's Imperial Golf Glove,0,99.99,Fitness Accessories
+361,17,Under Armour Men's Compression EV SL Slide,0,39.99,Electronics
+365,17,Perfect Fitness Perfect Rip Deck,0,59.99,Cleats
+403,18,Nike Men's CJ Elite 2 TD Football Cleat,107.50992666666666,129.99,Men's Footwear
+502,24,Nike Men's Dri-FIT Victory Golf Polo,0,50,Women's Apparel
+504,26,adidas Men's Germany Black Crest Away Tee,0,24.99,Girls' Apparel
+507,29,Nike Men's Deutschland Weltmeister Winners Bl,0,24.656218,Women's Clothing
+532,24,Nike Men's Deutschland Weltmeister Winners Bl,0,30,Girls' Apparel
+543,24,Nike Men's Deutschland Weltmeister Winners Bl,0,30,Girls' Apparel
+563,24.344868,Titleist Pro V1x High Numbers Golf Balls,0,30,Golf Balls
+565,29,Nike Men's Deutschland Weltmeister Winners Bl,0,30,Girls' Apparel
+566,24,Nike Men's Deutschland Weltmeister Winners Bl,0,30,Girls' Apparel
+567,26,TYR Boys' Team Digi Jammer,0,39.99,Girls' Apparel
+570,29,TYR Boys' Team Digi Jammer,0,49.98,Girls' Apparel
+571,26,Nike Men's Deutschland Weltmeister Winners Bl,0,29.824965,Girls' Apparel
+574,29,Men's gala suit,0,50,Girls' Apparel
+578,24,TYR Boys' Team Digi Jammer,0,39.99,Girls' Apparel
+582,24,adidas Men's Germany Black Crest Away Tee,0,24.99,Girls' Apparel
+585,29,TYR Boys' Team Digi Jammer,0,39.99,Golf Balls
+586,24,TYR Boys' Team Digi Jammer,0,39.99,Girls' Apparel
+593,29,Nike Men's Deutschland Weltmeister Winners Bl,0,31.822605,Women's Apparel
+594,24,TYR Boys' Team Digi Jammer,0,39.99,Women's Clothing
+600,26,Nike Men's Deutschland Weltmeister Winners Bl,0,30,Girls' Apparel
+604,29,TYR Boys' Team Digi Jammer,0,39.99,Girls' Apparel
+609,29,Nike Men's Deutschland Weltmeister Winners Bl,0,30,Girls' Apparel
+613,24,TYR Boys' Team Digi Jammer,0,39.99,Women's Apparel
+615,27.159431,TYR Boys' Team Digi Jammer,0,39.99,Girls' Apparel
+618,24,TYR Boys' Team Digi Jammer,0,39.99,Women's Apparel
+622,29,Men's gala suit,0,50,Golf Balls
+623,24,adidas Youth Germany Black/Red Away Match Soc,0,99.99,Girls' Apparel
+627,29,Under Armour Girls' Toddler Spine Surge Runni,0,39.99,Shop By Sport
+631,29,Merrell Women's Grassbow Sport Waterproof Hik,107.50992666666666,129.99,Men's Golf Clubs
+634,29,Bridgestone e6 Straight Distance NFL Carolina,215.01985333333332,299.98,Shop By Sport
+638,37,TaylorMade 2014 Purelite Stand Bag,0,59.99,Crafts
+642,29.343845,Merrell Women's Siren Mid Waterproof Hiking B,107.50992666666666,199.99,Men's Golf Clubs
+643,39.15729,Diamondback Girls' Clarity 24 Hybrid Bike 201,0,99.99,Golf Shoes
+644,29,Diamondback Girls' Clarity 24 Hybrid Bike 201,0,31.08,Golf Gloves
+645,29,Bag Boy M330 Push Cart,0,99.99,Golf Gloves
+646,29,Summer dresses,0,99.99,Men's Golf Clubs
+650,37,TaylorMade White Smoke IN-12 Putter,0,59.99,Golf Shoes
+651,29,TaylorMade 2014 Purelite Stand Bag,0,99.99,Crafts
+652,29,Top Flite Women's 2014 XL Hybrid,0,19.99,Golf Apparel
+657,29,Top Flite Women's 2014 XL Hybrid,0,19.99,Golf Apparel
+658,30,Pelican Maverick 100X Kayak,0,24.99,Soccer
+660,35,Merrell Women's Grassbow Sport Waterproof Hik,107.50992666666666,199.99,Soccer
+663,29,Bushnell Pro X7 Jolt Slope Rangefinder,0,39.99,Golf Gloves
+666,29,adidas Men's F10 Messi TRX FG Soccer Cleat,107.50992666666666,199.99,Men's Golf Clubs
+668,29,Bowflex SelectTech 1090 Dumbbells,107.50992666666666,199.99,Hunting & Shooting
+679,33.525578,Top Flite Women's 2014 XL Hybrid,0,19.99,Golf Apparel
+680,36.34735,LIJA Women's Mid-Length Panel Golf Shorts,107.50992666666666,129.99,Golf Shoes
+682,29,LIJA Women's Eyelet Sleeveless Golf Polo,0,59.99,Golf Shoes
+685,29,Columbia Men's PFG Anchor Tough T-Shirt,0,30.214436,Shop By Sport
+688,35,TaylorMade 2014 Purelite Stand Bag,107.50992666666666,164.38,Golf Gloves
+691,29.532398,Clicgear Rovic Cooler Bag,0,39.99,Golf Gloves
+693,29,Clicgear Rovic Cooler Bag,0,39.75,Golf Gloves
+698,35,LIJA Women's Mid-Length Panel Golf Shorts,0,24.99,Golf Gloves
+699,35,Clicgear Rovic Cooler Bag,0,39.99,Golf Gloves
+701,29,Top Flite Women's 2014 XL Hybrid,0,22.105568,Golf Apparel
+703,41,TaylorMade 2014 Purelite Stand Bag,0,99.99,Golf Shoes
+704,30.637732,Top Flite Women's 2014 XL Hybrid,0,24.99,Golf Apparel
+707,29,Under Armour Kids' Mercenary Slide,0,19.99,Golf Gloves
+710,29,Top Flite Women's 2014 XL Hybrid,0,22,Golf Apparel
+714,30.331194,Hirzl Women's Soffft Flex Golf Glove,0,17.99,Golf Balls
+721,33.268623,Merrell Women's Siren Mid Waterproof Hiking B,107.50992666666666,129.99,Men's Golf Clubs
+724,29,Glove It Women's Imperial Golf Glove,0,18.189178,Golf Balls
+725,32,Fighting video games,0,39.99,Soccer
+726,29,Glove It Women's Mod Oval 3-Zip Carry All Gol,0,59.99,Golf Shoes
+727,36,Team Golf Texas Longhorns Putter Grip,107.50992666666666,129.99,Soccer
+728,33,Clicgear Rovic Cooler Bag,0,31.99,Golf Gloves
+732,40,GolfBuddy VT3 GPS Watch,215.01985333333332,299.98,Kids' Golf Clubs
+734,37,TaylorMade 2014 Purelite Stand Bag,107.50992666666666,129.99,Crafts
+737,29,LIJA Women's Button Golf Dress,0,30.406504,Crafts
+738,33.171124,Hirzl Women's Hybrid Golf Glove,0,15.206521,Golf Balls
+741,31.811455,Team Golf San Francisco Giants Putter Grip,0,21.991434,Crafts
+743,29,Top Flite Women's 2014 XL Hybrid,0,19.99,Golf Apparel
+752,30,Clicgear Rovic Cooler Bag,0,39.99,Golf Gloves
+753,35,Merrell Men's All Out Flash Trail Running Sho,0,29.994993,Crafts
+759,29,LIJA Women's Eyelet Sleeveless Golf Polo,0,99.99,Golf Shoes
+763,40,GolfBuddy VT3 GPS Watch,215.01985333333332,299.98,Basketball
+768,29,Smart watch,0,9.99,Golf Gloves
+769,39.191704,Hirzl Men's Hybrid Golf Glove,0,15.691017,Golf Balls
+770,29,Smart watch,0,9.99,Golf Gloves
+771,36,Clicgear Rovic Cooler Bag,0,9.99,Golf Gloves
+772,32,LIJA Women's Eyelet Sleeveless Golf Polo,0,99.99,Golf Shoes
+773,29,Under Armour Kids' Mercenary Slide,0,17.99,Crafts
+774,29,Columbia Men's PFG Anchor Tough T-Shirt,0,30,Shop By Sport
+775,36,Glove It Women's Imperial Golf Glove,0,19.455748,Golf Balls
+776,40,Clicgear Rovic Cooler Bag,0,24.99,Crafts
+777,36,Bag Boy Beverage Holder,0,39.99,Soccer
+778,36,TaylorMade 2014 Purelite Stand Bag,0,31.99,Soccer
+779,35,Bag Boy Beverage Holder,0,22,Golf Gloves
+780,33.857327,Team Golf St. Louis Cardinals Putter Grip,0,23.290373,Crafts
+781,29,Bag Boy Beverage Holder,0,22,Golf Gloves
+782,32,Hirzl Women's Hybrid Golf Glove,0,14.99,Golf Balls
+783,40,Sports Books,0,59.99,Golf Shoes
+784,38,Hirzl Men's Hybrid Golf Glove,0,14.99,Golf Balls
+787,37.51459,Bag Boy Beverage Holder,0,19.99,Golf Gloves
+788,37,Under Armour Men's Tech II T-Shirt,0,11.54,Golf Balls
+789,29,Glove It Women's Imperial Golf Glove,0,19.99,Golf Balls
+790,37,Hirzl Women's Soffft Flex Golf Glove,0,17.99,Golf Balls
+791,36,Hirzl Men's Hybrid Golf Glove,0,17.083569,Golf Balls
+792,30,TaylorMade White Smoke IN-12 Putter,0,19.99,Crafts
+793,36,Under Armour Kids' Mercenary Slide,0,24.99,Golf Gloves
+794,29,Columbia Men's PFG Anchor Tough T-Shirt,0,15.982515,Crafts
+795,35.179436,Titleist Pro V1 High Numbers Personalized Gol,0,49.98,Electronics
+796,43,Glove It Women's Mod Oval Golf Glove,0,19.99,Golf Balls
+797,41,insta-bed Neverflat Air Mattress,0,11.54,Crafts
+798,40,Glove It Women's Mod Oval 3-Zip Carry All Gol,0,59.99,Golf Shoes
+799,29,Glove It Women's Imperial Golf Glove,0,16.51431,Golf Balls
+800,36,Hirzl Women's Hybrid Golf Glove,0,18.685389,Crafts
+801,32.07486,Glove It Women's Mod Oval 3-Zip Carry All Gol,0,50,Golf Shoes
+802,33.850525,Bridgestone e6 Straight Distance NFL San Dieg,0,31.99,Electronics
+803,29,Bridgestone e6 Straight Distance NFL Carolina,0,14.99,Crafts
+804,39.52382,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,34.99,As Seen on  TV!
+805,37,Bridgestone e6 Straight Distance NFL Tennesse,0,50,Electronics
+806,40,Hirzl Men's Hybrid Golf Glove,0,14.99,Crafts
+807,33,Bridgestone e6 Straight Distance NFL Carolina,0,31.988329,Electronics
+808,40,Bag Boy Beverage Holder,0,39.99,Golf Gloves
+809,42.147728,Columbia Men's PFG Anchor Tough T-Shirt,0,50,Electronics
+810,36.827927,Under Armour Kids' Mercenary Slide,0,16.786724,Golf Balls
+812,40,Team Golf New England Patriots Putter Grip,0,24.99,Golf Gloves
+814,41,Bridgestone e6 Straight Distance NFL Tennesse,0,50,Electronics
+815,37,Titleist Pro V1x High Numbers Golf Balls,0,49.98,Electronics
+816,29,Clicgear 8.0 Shoe Brush,0,9.99,Golf Gloves
+817,37,Titleist Pro V1x High Numbers Personalized Go,0,50,Electronics
+818,29,Web Camera,0,24.99,Accessories
+819,40,adidas Men's F10 Messi TRX FG Soccer Cleat,0,39.75,Girls' Apparel
+820,29,Titleist Pro V1x High Numbers Golf Balls,0,39.99,Golf Gloves
+821,40,Bridgestone e6 Straight Distance NFL Tennesse,0,50,Electronics
+822,36,Diamondback Girls' Clarity 24 Hybrid Bike 201,107.50992666666666,129.99,Golf Shoes
+823,36,Bowflex SelectTech 1090 Dumbbells,0,39.99,Electronics
+824,37,Titleist Pro V1x Golf Balls,0,39.99,Electronics
+825,29,Titleist Pro V1x High Numbers Personalized Go,0,49.98,Electronics
+826,33.79612,Titleist Pro V1x Golf Balls,0,49.98,Electronics
+827,39.113907,TaylorMade White Smoke IN-12 Putter,0,16.204638,Golf Balls
+828,43,Titleist Pro V1 High Numbers Personalized Gol,0,31.99,Electronics
+829,40,Under Armour Kids' Mercenary Slide,0,59.99,Electronics
+830,40,Sports Books,0,24.99,Accessories
+831,37,Team Golf St. Louis Cardinals Putter Grip,0,24.99,Accessories
+832,36,Titleist Pro V1x High Numbers Personalized Go,0,50,Electronics
+833,40,Dell Laptop,0,24.99,Accessories
+834,43,Team Golf St. Louis Cardinals Putter Grip,0,24.99,Accessories
+835,37,Glove It Urban Brick Golf Towel,0,49.98,Electronics
+837,43,Team Golf New England Patriots Putter Grip,0,24.99,Accessories
+840,35,Glove It Women's Imperial Golf Glove,0,20.97361,Golf Balls
+858,43,LIJA Women's Button Golf Dress,0,24.99,Accessories
+864,37,Bridgestone e6 Straight Distance NFL Carolina,0,34.99,Electronics
+869,43,Web Camera,0,24.99,Accessories
+872,38,Bridgestone e6 Straight Distance NFL Carolina,0,31.085688,Electronics
+876,37,Team Golf St. Louis Cardinals Putter Grip,0,24.99,Accessories
+878,29,Web Camera,0,24.99,Accessories
+882,40,Bridgestone e6 Straight Distance NFL Carolina,0,30.997652,Electronics
+885,43,Clicgear Rovic Cooler Bag,0,24.99,Accessories
+886,43,Cleveland Golf Women's 588 RTX CB Satin Chrom,0,24.99,Pet Supplies
+887,29,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,15.990847,Trade-In
+888,43,Team Golf San Francisco Giants Putter Grip,0,50,Electronics
+890,36,Team Golf Texas Longhorns Putter Grip,0,24.99,Accessories
+891,41,Team Golf St. Louis Cardinals Putter Grip,0,24.99,Accessories
+892,40,Web Camera,0,24.99,Accessories
+893,37,Glove It Urban Brick Golf Towel,0,16.09285,Trade-In
+895,43,Summer dresses,0,24.99,Accessories
+896,41,Team Golf Texas Longhorns Putter Grip,0,39.99,Electronics
+897,40.078068,Team Golf Pittsburgh Steelers Putter Grip,0,24.99,Accessories
+898,43,Cleveland Golf Collegiate My Custom Wedge 588,0,17.302923,Trade-In
+899,43,Team Golf San Francisco Giants Putter Grip,0,24.990828,Accessories
+900,43,Team Golf Tennessee Volunteers Putter Grip,0,24.99,Accessories
+902,37,Glove It Urban Brick Golf Towel,0,17.99,Cameras
+903,41,Team Golf Pittsburgh Steelers Putter Grip,0,24.99,Accessories
+904,43,Columbia Men's PFG Anchor Tough T-Shirt,0,24.99,Accessories
+905,37,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,24.99,Accessories
+906,35,Team Golf Texas Longhorns Putter Grip,0,24.99,Pet Supplies
+908,43,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,15.99,Cameras
+909,40,Bridgestone e6 Straight Distance NFL Carolina,0,39.75,Electronics
+910,36,Glove It Women's Mod Oval 3-Zip Carry All Gol,0,21.993156,Music
+911,37,Team Golf San Francisco Giants Putter Grip,0,25,Accessories
+913,41,Bridgestone e6 Straight Distance NFL Carolina,0,31.08,Electronics
+914,36,Bridgestone e6 Straight Distance NFL Tennesse,0,39.99,Electronics
+915,40,The North Face Women's Recon Backpack,0,19.99,Trade-In
+917,37,Team Golf Texas Longhorns Putter Grip,0,24.99,Accessories
+918,37,Glove It Imperial Golf Towel,0,17.99,Trade-In
+919,41,Glove It Imperial Golf Towel,0,19.99,Trade-In
+920,40.92967,Glove It Urban Brick Golf Towel,0,15.8081255,Trade-In
+922,40.624504,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,16.956114,As Seen on  TV!
+923,38,Team Golf Pittsburgh Steelers Putter Grip,0,24.99,Accessories
+924,40,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,17.99,As Seen on  TV!
+925,43,LIJA Women's Eyelet Sleeveless Golf Polo,0,19.99,Trade-In
+926,35.16586,Sports Books,0,24.99,Accessories
+927,37,Titleist Pro V1x High Numbers Personalized Go,0,24.99,Accessories
+934,36,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,39.75,Cameras
+936,41,Glove It Imperial Golf Towel,0,16.030205,Trade-In
+939,41,Glove It Urban Brick Golf Towel,0,17.99,Trade-In
+940,43,Glove It Imperial Golf Towel,0,16.700043,Trade-In
+948,43,Yakima DoubleDown Ace Hitch Mount 4-Bike Rack,0,19.99,As Seen on  TV!
+949,37.717487,Nike Men's Comfort 2 Slide,0,30,Trade-In
+950,43,Glove It Urban Brick Golf Towel,0,19.99,Cameras
+953,43,Team Golf San Francisco Giants Putter Grip,0,24.99,Accessories
+956,40,Team Golf Tennessee Volunteers Putter Grip,0,24.99,Accessories
+957,45,Diamondback Women's Serene Classic Comfort Bi,215.01985333333332,299.98,Camping & Hiking
+962,43,GolfBuddy VT3 GPS Watch,0,31.99,Hunting & Shooting
+969,43,The North Face Women's Recon Backpack,0,99.99,Hunting & Shooting
+977,43,ENO Atlas Hammock Straps,0,28.951092,Hunting & Shooting
+981,43,insta-bed Neverflat Air Mattress,107.50992666666666,129.99,Hunting & Shooting
+992,43,ENO Atlas Hammock Straps,0,31.37818,Hunting & Shooting
+1004,45,Field & Stream Sportsman 16 Gun Fire Safe,322.52977999999996,399.98,Fishing
+1014,46,O'Brien Men's Neoprene Life Vest,0,49.98,Indoor/Outdoor Games
+1073,48,Pelican Sunstream 100 Kayak,107.50992666666666,199.99,Water Sports
+1096,61,Sports Books,0,31.99,Books
+1111,61.634293,Sports Books,0,31.08,Books
+1141,48.643036,Sports Books,0,30,Books
+1346,61,Sports Books,0,31.99,Books
+1347,62.709312,Sports Books,0,39.99,Books
+1348,59.20604,CDs of rock,0,11.54,CDs
+1349,59,Web Camera,430.03970666666663,452.04,Cameras
+1350,65.84287,Children's heaters,215.01985333333332,299.98,Children's Clothing
+1351,48,Dell Laptop,1397.6290466666665,1500,Computers
+1352,65,DVDs,0,59.99,DVDs
+1353,69,Porcelain crafts,430.03970666666663,527.74725,Crafts
+1354,66.88289,Lawn mower,430.03970666666663,532.58,Garden
+1355,66,Lawn mower,537.5496333333333,595.2211,Garden
+1356,66.52757,First aid kit,215.01985333333332,252.88,Health and Beauty
+1357,71.22979,Men's gala suit,215.01985333333332,270.36252,Men's Clothing
+1358,72,Garmin Approach S3 Golf GPS Watch,107.50992666666666,199.99,Health and Beauty
+1359,70.604836,Adult dog supplies,0,59.99,Pet Supplies
+1360,72.0085,Smart watch,215.01985333333332,299.98,Sporting Goods
+1361,72.543304,Toys,0,11.54,Toys
+1362,75,Fighting video games,0,39.99,Video Games
+1363,76,Summer dresses,107.50992666666666,199.99,Women's Clothing
